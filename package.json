@@ -1,0 +1,37 @@
+{
+  "name": "using-pre-built-react-components",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.12.1",
+    "@material-ui/icons": "4.11.2",
+    "@wdio/cli": "^7.7.8",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.7.8",
+    "@wdio/mocha-framework": "^7.7.7",
+    "@wdio/spec-reporter": "^7.7.7",
+    "chromedriver": "^91.0.1",
+    "typescript": "3.3.3",
+    "wdio-chromedriver-service": "^7.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
