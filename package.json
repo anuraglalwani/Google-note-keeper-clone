@@ -7,8 +7,11 @@
     "@material-ui/core": "4.12.1",
     "@material-ui/icons": "4.11.2",
     "@wdio/cli": "^7.7.8",
+    "axios": "^0.21.1",
+    "gitignore": "^0.7.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
+    "react-router-dom": "^5.2.1",
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
